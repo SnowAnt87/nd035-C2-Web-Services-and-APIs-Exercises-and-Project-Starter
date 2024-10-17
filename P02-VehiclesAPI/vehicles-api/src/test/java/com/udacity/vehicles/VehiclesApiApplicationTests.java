@@ -1,4 +1,4 @@
-package com.udacity.vehicles;
+package com.udacity.vehicles.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
